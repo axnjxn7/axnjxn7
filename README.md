@@ -63,7 +63,8 @@
 
 ---
 
-## 🔗 Connect with Me  
-- 🌐 [GitHub Profile](https://github.com/axnjxn7)  
-- 💼 LinkedIn (add link here if you have one)  
+## 🔗 Connect with Me   
+- 💼 LinkedIn www.linkedin.com/in/jackson-windhorst-04a9b9290
+
+  
 
