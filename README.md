@@ -1,10 +1,6 @@
 Hi I'm Jackson
 
-Updates:\
- -Machine Learning From Scratch\
- -Analytics Practice\
- -Setting up a very simple MLops system using FastAPI\
- -Webscraping
+Below are my pinned projects and any work that can be shown publicly (i.e. non NDA work)
 
 
   
